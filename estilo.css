@@ -1,0 +1,29 @@
+legend{
+    border: solid 1px purple;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: violet;
+}
+
+h3{
+    border: solid 1px purple;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: violet;
+    width: fit-content;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+fieldset{
+    border-color: purple;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
